@@ -1,0 +1,3 @@
+SUCCESS # ship creation
+SUCCESS
+FAIL
